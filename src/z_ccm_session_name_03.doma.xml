@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>Z_CCM_SESSION_NAME_03</DOMNAME>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000006</LENG>
+    <OUTPUTLEN>000006</OUTPUTLEN>
+    <VALEXI>X</VALEXI>
+    <DOMMASTER>E</DOMMASTER>
+   </DD01V>
+   <DD07V_TAB>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_03</DOMNAME>
+     <VALPOS>0001</VALPOS>
+     <DOMVALUE_L>A4H</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_03</DOMNAME>
+     <VALPOS>0002</VALPOS>
+     <DOMVALUE_L>S4H269</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_03</DOMNAME>
+     <VALPOS>0003</VALPOS>
+     <DOMVALUE_L>S4H276</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_03</DOMNAME>
+     <VALPOS>0004</VALPOS>
+     <DOMVALUE_L>S4H279</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_03</DOMNAME>
+     <VALPOS>0005</VALPOS>
+     <DOMVALUE_L>S4H630</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_03</DOMNAME>
+     <VALPOS>0006</VALPOS>
+     <DOMVALUE_L>S4H</DOMVALUE_L>
+    </DD07V>
+   </DD07V_TAB>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD01_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Session Name</DDTEXT>
+    </item>
+   </DD01_TEXTS>
+   <DD07_TEXTS>
+    <item>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>A4H</DOMVALUE_L>
+     <DDTEXT>ABAP for HANA</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>S4H269</DOMVALUE_L>
+     <DDTEXT>Authorizations within the ABAP Programming Model for SAP S/4</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0003</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>S4H276</DOMVALUE_L>
+     <DDTEXT>Building a Fiori List Report App: ABAP Programming Model for</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0004</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>S4H279</DOMVALUE_L>
+     <DDTEXT>Building a transactional Fiori App: ABAP Programming Model f</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0005</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>S4H630</DOMVALUE_L>
+     <DDTEXT>SAP Fiori: Development on Core Data Services (1h CodeJam min</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0006</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>S4H</DOMVALUE_L>
+     <DDTEXT>ABAP for HANA</DDTEXT>
+    </item>
+   </DD07_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
